@@ -1,0 +1,12 @@
+Sample.MainActivity, Sample;md5e44603b235f21ebfbb6b3d0f2dc433d5.MainActivity
+Sample.MainActivity, Sample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e44603b235f21ebfbb6b3d0f2dc433d5.MainActivity
+Sample.MainActivity;md5e44603b235f21ebfbb6b3d0f2dc433d5.MainActivity
+sample.MainActivity;md5e44603b235f21ebfbb6b3d0f2dc433d5.MainActivity
+Sample.TestFragment, Sample;md5e44603b235f21ebfbb6b3d0f2dc433d5.TestFragment
+Sample.TestFragment, Sample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e44603b235f21ebfbb6b3d0f2dc433d5.TestFragment
+Sample.TestFragment;md5e44603b235f21ebfbb6b3d0f2dc433d5.TestFragment
+sample.TestFragment;md5e44603b235f21ebfbb6b3d0f2dc433d5.TestFragment
+ActionSheetCSharp.ActionSheet, ActionSheetCSharp;md55c82f15d7562512285a34f772e9d287c.ActionSheet
+ActionSheetCSharp.ActionSheet, ActionSheetCSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55c82f15d7562512285a34f772e9d287c.ActionSheet
+ActionSheetCSharp.ActionSheet;md55c82f15d7562512285a34f772e9d287c.ActionSheet
+actionsheetcsharp.ActionSheet;md55c82f15d7562512285a34f772e9d287c.ActionSheet

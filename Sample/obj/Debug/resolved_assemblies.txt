@@ -1,0 +1,8 @@
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\assemblies\Sample.dll
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\assemblies\ActionSheetCSharp.dll
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\assemblies\System.dll
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\assemblies\System.Xml.Linq.dll

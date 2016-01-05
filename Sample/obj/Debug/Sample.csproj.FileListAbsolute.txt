@@ -1,0 +1,16 @@
+E:\xamarin\ActionSheetCSharp\Sample\bin\Debug\Sample.dll
+E:\xamarin\ActionSheetCSharp\Sample\bin\Debug\Sample.pdb
+E:\xamarin\ActionSheetCSharp\Sample\bin\Debug\Sample.Sample.apk
+E:\xamarin\ActionSheetCSharp\Sample\bin\Debug\Sample.Sample-Signed.apk
+E:\xamarin\ActionSheetCSharp\Sample\bin\Debug\ActionSheetCSharp.dll
+E:\xamarin\ActionSheetCSharp\Sample\bin\Debug\ActionSheetCSharp.pdb
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\Sample.dll
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\Sample.pdb
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\android\bin\Sample.Sample.apk
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\res\layout\layout1.xml
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\res\layout\main.xml
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\res\values\strings.xml
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\res\drawable\icon.png
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\R.cs.flag
+E:\xamarin\ActionSheetCSharp\Sample\obj\Debug\uploadflags.txt
